@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Calendário</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="calendario-container">
+
+<h1>Hoje Na História</h1>
+
+<div class="calendario">
+
+<div class="mes" id="mesAno"></div>
+
+<div class="dias-semana">
+<div>Seg</div>
+<div>Ter</div>
+<div>Qua</div>
+<div>Qui</div>
+<div>Sex</div>
+<div>Sáb</div>
+<div>Dom</div>
+</div>
+
+<div class="dias" id="dias"></div>
+
+</div>
+
+</div>
+
+<script src="calendario.js"></script>
+
+</body>
+</html>

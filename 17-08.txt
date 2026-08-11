@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>17 de Agosto - Hoje Na História</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="pagina-dia">
+
+<a href="calendario.html" class="voltar">Voltar ao calendário</a>
+
+<h1>17 de Agosto</h1>
+
+<div class="acontecimento">
+
+<h2>17 de agosto de 1945</h2>
+
+<h3>Proclamação da Independência da Indonésia</h3>
+
+<p>
+Após a rendição do Japão na Segunda Guerra Mundial, os líderes nacionalistas
+Sukarno e Mohammad Hatta proclamaram a independência da Indonésia, em Jacarta.
+Este acontecimento marcou o início do processo de independência do país,
+que viria a ser reconhecida oficialmente em 1949.
+</p>
+
+<p><strong>Categoria:</strong> Política / Independência</p>
+
+<p><strong>Local:</strong> Jacarta, Indonésia</p>
+
+</div>
+
+</div>
+
+</body>
+</html>
