@@ -22,7 +22,11 @@ body{
 
     color:white;
 
-    overflow:hidden;
+    overflow-y: auto;
+
+    margin: 0;
+
+    padding: 250px 0;
 
 }
 
@@ -31,6 +35,8 @@ body{
     text-align:center;
 
     animation:entrada 1.2s ease;
+
+    padding-top: 60px;
 
 }
 
