@@ -73,33 +73,17 @@ if(d=="17" && m=="08"){
 
 window.location.href="17-08.html";
 
-}else{
-
-alert("Ainda não existe informação para este dia.");
-
 if(d=="18" && m=="08"){
 
 window.location.href="18-08.html";
-
-}else{
-
-alert("Ainda não existe informação para este dia.");
 
 if(d=="19" && m=="08"){
 
 window.location.href="19-08.html";
 
-}else{
-
-alert("Ainda não existe informação para este dia.");
-
 if(d=="20" && m=="08"){
 
 window.location.href="20-08.html";
-
-}else{
-
-alert("Ainda não existe informação para este dia.");
 
 if(d=="21" && m=="08"){
 
