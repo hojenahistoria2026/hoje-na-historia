@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Os primeiros animais a regressarem vivos do espaço</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="pagina-dia">
+
+<a href="calendario.html" class="voltar">Voltar ao calendário</a>
+
+<h1>18 de Agosto</h1>
+
+<div class="acontecimento">
+
+<h2 align="right">19 de agosto de 1960</h2>
+
+<h3 align="center">Os primeiros animais a regressarem vivos do espaço</h3>
+
+    <h2>19 de agosto de 1960 — Belka e Strelka fazem história</h2>
+
+    <p>
+        Durante a década de 1950 e início da década de 1960, os Estados Unidos e a União Soviética disputavam a liderança na <strong>Corrida Espacial</strong>. Antes de enviar seres humanos para o espaço, os cientistas precisavam de compreender melhor os efeitos das viagens espaciais num organismo vivo.
+    </p>
+
+    <p>
+        Foi neste contexto que a <strong>União Soviética lançou, a 19 de agosto de 1960, a Sputnik 5</strong>, também conhecida como Korabl-Sputnik 2. A bordo da nave encontravam-se dois cães, <strong>Belka e Strelka</strong>, acompanhados por outros animais, incluindo ratos e camundongos, além de plantas.
+    </p>
+
+    <p>
+        A missão tinha um objetivo importante: estudar a capacidade dos seres vivos de suportarem uma viagem orbital e, sobretudo, verificar se seria possível regressar à Terra em segurança.
+    </p>
+
+    <p>
+        A Sputnik 5 entrou em órbita terrestre e completou <strong>18 órbitas</strong> antes de iniciar o regresso. No dia seguinte, a cápsula voltou à Terra e os dois cães foram recuperados vivos.
+    </p>
+
+    <p>
+        Belka e Strelka tornaram-se assim os <strong>primeiros cães a viajar até à órbita terrestre e a regressar vivos e em segurança à Terra</strong>. O sucesso da missão representou um importante avanço científico e demonstrou que uma missão espacial com seres vivos poderia ser realizada com sucesso.
+    </p>
+
+    <p>
+        A missão teve também grande importância para a preparação dos futuros voos tripulados. Poucos meses depois, em <strong>12 de abril de 1961</strong>, o cosmonauta soviético <strong>Yuri Gagarin</strong> tornar-se-ia o primeiro ser humano a viajar para o espaço e a completar uma órbita à volta da Terra.
+    </p>
+
+    <p>
+        Belka e Strelka acabaram por se tornar símbolos da exploração espacial soviética. Strelka chegou inclusive a ter descendentes, e um dos seus filhotes foi oferecido ao presidente dos Estados Unidos, John F. Kennedy.
+    </p>
+
+    <h2>⏳ Uma viagem que abriu caminho ao espaço</h2>
+
+    <p>
+        A missão de 19 de agosto de 1960 foi muito mais do que uma simples viagem de dois cães ao espaço. Foi uma experiência científica fundamental para compreender os riscos das viagens orbitais e ajudou a preparar uma das maiores conquistas da exploração espacial: o envio do primeiro ser humano para fora da Terra.
+    </p>
+
+    <p>
+        <strong>Belka e Strelka viajaram primeiro para que, pouco tempo depois, o Homem pudesse seguir o mesmo caminho.</strong>
+    </p>
+        <p><strong>Categoria:</strong> Ciência / Exploração Espacial</p>
+        <p><strong>Local:</strong> União Soviética / Órbita terrestre</p>
+</div>
+
+</div>
+
+</body>
+</html>
